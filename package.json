@@ -1,0 +1,24 @@
+{
+  "name": "duxhound",
+  "version": "0.0.0",
+  "description": "redux based bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nukosuke/duxhound.git"
+  },
+  "keywords": [
+    "chatbot",
+    "framework",
+    "redux"
+  ],
+  "author": "nukosuke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nukosuke/duxhound/issues"
+  },
+  "homepage": "https://github.com/nukosuke/duxhound#readme"
+}

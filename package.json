@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/nukosuke/duxhound/issues"
   },
-  "homepage": "https://github.com/nukosuke/duxhound#readme"
+  "homepage": "https://github.com/nukosuke/duxhound#readme",
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
 }

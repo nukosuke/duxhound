@@ -1,4 +1,8 @@
 {
   "name": "duxhound",
-  "dependencies": {}
+  "dependencies": {},
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20170115054122",
+    "redux": "registry:dt/redux#3.5.2+20160703092728"
+  }
 }

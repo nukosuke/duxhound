@@ -23,5 +23,9 @@
   "homepage": "https://github.com/nukosuke/duxhound#readme",
   "dependencies": {
     "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.1.5",
+    "typings": "^2.1.0"
   }
 }
